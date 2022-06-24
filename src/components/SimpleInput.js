@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import useInput from '../hooks/use-input';
 import EmailInput from './EmailInput';
 import NameInput from './NameInput';
